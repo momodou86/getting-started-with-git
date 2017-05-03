@@ -1,4 +1,4 @@
-# Installing Git on Mac OS
+# Installing Git on Mac OS using Homebrew
 
 Getting Git set up on Mac OS is easy, and has the added benefit of giving you a package manager to install lots of other awesome and open-source software.
 
